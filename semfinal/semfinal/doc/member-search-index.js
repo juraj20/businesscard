@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"semestralka2024final","c":"MainGui","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"semestralka2024final","c":"MainGui","l":"vyberSablony()"}];updateSearchResults();
